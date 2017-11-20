@@ -1,0 +1,17 @@
+http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript/#.WfbVzHDLc8o
+
+https://www.youtube.com/watch?v=WH5GgHaEy7E
+
+mongod --dbpath /home/taha/Desktop/nk_shop/mongo
+--------to start mongochet(studio 3t)
+./bin/studio-3t.sh
+
+-----------------to open shell
+mongo
+
+-----------------------------The shell can request that the server terminate.
+
+$ ./mongo
+> use admin
+> db.shutdownServer()
+
