@@ -10,7 +10,7 @@ var userSchema = new Schema({
   username: { type: String},
   password: { type: String},
   admin: Boolean,
-  }, {collection:'user'});
+  }, {collection:'users'});
 
 // you can also do queries and find similar users 
 userSchema.methods.dudify = function() {

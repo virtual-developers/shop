@@ -2,7 +2,7 @@ http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typesc
 
 https://www.youtube.com/watch?v=WH5GgHaEy7E
 
-mongod --dbpath /home/taha/Desktop/nk_shop/mongo
+mongod --dbpath /home/taha/Desktop/shop/mongo
 --------to start mongochet(studio 3t)
 ./bin/studio-3t.sh
 
