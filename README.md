@@ -1,6 +1,7 @@
 # shop
 
 
-0)download and install node
-1)npm install -g cordova ionic
-2)go in nk_shope and "ionic serve"
+1)download and install node
+2)npm install -g cordova ionic
+3)run "npm install" under nk_shop_mobile folder 
+3)go in under nk_shop_mobile and "ionic serve -l"
