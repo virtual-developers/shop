@@ -1,0 +1,8 @@
+{
+  "name": "nk_shope",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
